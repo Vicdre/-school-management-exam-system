@@ -7,4 +7,6 @@ Teacher can create and manage exam courses
 Students can enroll and attempt exams
 Result tracking and management
 
-Tech used: [your stack — C#, PHP, MySQL, whatever you used]
+Tech used: [Frontend: HTML, CSS, JavaScript,Bootstrap
+Backend: JavaScript,Jquery,PHP
+Database: MySQL]
